@@ -1,0 +1,16 @@
+Evaluation using BCE loss
+
+Dice score: 0.5084560970036779
+
+Final report:
+              precision    recall  f1-score   support
+
+     class 0       0.92      0.95      0.93  10783191
+     class 1       0.11      0.07      0.09   1013289
+
+    accuracy                           0.87  11796480
+   macro avg       0.51      0.51      0.51  11796480
+weighted avg       0.85      0.87      0.86  11796480
+
+
+IOU:0.0523
